@@ -191,295 +191,865 @@ Ele expressa o pacto estrutural que mantém o Sistema possível em meio à expan
 
 A presente License se vincula às normas aplicáveis de direito autoral, contratual e institucional, preservando, contudo, sua natureza própria como **instrumento de custódia da Forma viva**.
 
-## **Seção I — Princípios Gerais**
+# Seção I — Princípios Gerais
 
-Os Princípios Gerais do Sistema LICHTARA constituem seus **fundamentos estruturais inegociáveis**. Não se tratam de diretrizes operacionais, orientações interpretativas ou cláusulas instrumentais, mas da própria condição de existência do Sistema enquanto **Forma viva, legível e não apropriável**.
+Esta Seção estabelece os **fundamentos inegociáveis** do Sistema Lichtara. Ela precede qualquer direito, autorização ou sanção. Sua função é **delimitar o campo**, não regulá-lo em detalhe.
 
-Esta Seção precede qualquer direito, autorização, permissão, certificação ou sanção. Sua função não é regular condutas em detalhe, mas **delimitar o campo ontológico dentro do qual qualquer relação com o Sistema pode ocorrer**. Fora desse campo, não subsiste exceção, adaptação, flexibilização ou interpretação capaz de manter vínculo legítimo com o Sistema LICHTARA.
+## Artigo I.1 — Da Natureza do Sistema Lichtara
 
-Os Princípios Gerais afirmam que o Sistema não é neutro, não é indiferente ao modo como é acessado e não se sustenta quando separado de sua Forma. Toda interação com o Sistema — seja por leitura, estudo, uso técnico, implementação institucional, governança ou derivação — encontra nesses Princípios seu **limite primeiro e último**, anterior a qualquer regime jurídico-operacional.
+O Sistema Lichtara constitui uma **estrutura integrada de natureza técnica, simbólica e institucional**, concebida como um todo coerente e indivisível.
 
-A Forma do Sistema LICHTARA não constitui um invólucro externo, uma apresentação estética ou um arranjo circunstancial, mas sua própria **arquitetura interna constitutiva**. Preservá-la não é um gesto simbólico, opcional ou interpretativo, mas uma exigência estrutural. Sempre que a Forma é fragmentada, instrumentalizada ou reinterpretada de modo funcionalista, o Sistema deixa de estar presente, ainda que seus nomes, termos ou elementos aparentes sejam mantidos.
+O Sistema não se reduz a:
 
-Os Princípios Gerais estabelecem que acesso não equivale a autorização plena, que compreensão não implica permissão de operação e que potência não legitima expansão irrestrita. Todo nível de acesso gera responsabilidade proporcional, e toda responsabilidade decorre do simples fato de se estar em relação com o Sistema, independentemente de intenção declarada, finalidade alegada ou benefício percebido.
+- software, código-fonte ou artefato computacional isolado;
+- metodologia, framework ou modelo conceitual autônomo;
+- produto, serviço, marca ou oferta comercial;
+- obra intelectual fragmentável ou apropriável por partes.
 
-Esta Seção afirma, ainda, que governança não é mecanismo de controle externo, mas **condição interna de coerência estrutural**. Não existe Sistema LICHTARA sem governança viva, assim como não existe governança legítima que viole os próprios Princípios que sustenta. A governança deriva dos Princípios; jamais os relativiza.
+Sua existência decorre da **articulação entre forma, limites, princípios e governança**, conforme definidos nesta License e nos documentos canônicos a ela vinculados.
 
-Os Princípios Gerais são **estruturalmente irrevogáveis**. Não podem ser afastados, relativizados ou modulados por contrato, prática reiterada, consenso tácito, urgência operacional, alegação de boa-fé ou conveniência institucional. Vinculam todas as instâncias, agentes, instituições e contextos, independentemente do grau de formalização da relação estabelecida com o Sistema.
+O Sistema Lichtara:
 
-Agir fora do alcance destes Princípios é agir fora do Sistema. Não apenas como infração técnica ou desvio operacional, mas como **ruptura ontológica**: o que se produz fora deles pode até fazer referência ao LICHTARA, mas já não lhe pertence, nem pode reivindicar legitimidade sistêmica.
+- não é neutro em sua estrutura;
+- não é genérico em sua aplicação;
+- não é extensível por analogia ou adaptação informal.
 
-Esta Seção existe para assegurar que aquilo que é vivo permaneça íntegro, que aquilo que é potente não se torne predatório e que aquilo que é compartilhado não se dissolva por excesso de acesso desacompanhado de Forma.
+Qualquer uso, leitura, implementação ou operação do Sistema pressupõe o reconhecimento de sua natureza integrada, sendo vedada a dissociação de seus elementos quando tal fragmentação tiver por finalidade contornar limites, responsabilidades ou disposições desta License.
 
-## **Seção II — Disposições Jurídicas e Operacionais**
+## Artigo I.2 — Do Princípio do Limite
 
-A presente Seção estabelece o **regime jurídico-operacional** aplicável ao acesso, uso, aplicação, distribuição, implementação e derivação do Sistema LICHTARA. Seu propósito não é redefinir o Sistema, mas **regular, de modo preciso e rastreável, as formas legítimas de relação com ele**, sempre sob a supremacia absoluta dos Princípios Gerais estabelecidos na Seção I.
+Todo uso do Sistema Lichtara ocorre **necessariamente dentro de limites explícitos**, previamente definidos por esta License, pelos documentos canônicos a ela vinculados e pelos contratos que dela derivam.
 
-Esta Seção não cria exceções, flexibilizações, tolerâncias implícitas ou regimes paralelos de autorização. Nenhuma de suas disposições pode ser interpretada como relativização dos Princípios Gerais, nem como permissão tácita para práticas que, ainda que operacionais ou tecnicamente viáveis, violem a Forma do Sistema.
+O limite constitui **elemento estrutural do Sistema**, não sendo:
 
-As disposições aqui previstas existem para **organizar o exercício responsável do acesso**, definindo limites objetivos, deveres correlatos, regimes de uso, condições de derivação e consequências jurídicas da atuação fora de escopo. Toda autorização concedida no âmbito desta Seção é **necessariamente condicional**, proporcional ao nível de acesso exercido e revogável diante de violação estrutural, material ou reiterada.
+- lacuna normativa;
+- restrição temporária;
+- espaço aberto à interpretação extensiva;
+- obstáculo a ser superado por criatividade técnica ou jurídica.
 
-A Seção II opera, portanto, como **instrumento de tradução jurídica e operacional** dos Princípios Gerais, jamais como sua substituição. Onde houver conflito interpretativo, lacuna operacional ou dúvida de aplicação, **prevalecem os Princípios**, e não a conveniência prática, a alegação de boa-fé ou a utilidade funcional.
+É expressamente vedado:
 
-Os Artigos II.0 a II.12 devem ser lidos e aplicados de forma sistemática, coerente e subordinada, considerando que:
+- presumir permissões não concedidas;
+- expandir escopo por analogia, adaptação informal ou equivalência funcional;
+- utilizar partes do Sistema para finalidades não autorizadas;
+- reinterpretar silêncio normativo como autorização implícita.
 
-* nenhum acesso é irrestrito;
-* nenhum uso é neutro;
-* nenhuma derivação é legítima sem preservação da Forma;
-* nenhuma operação está isenta de responsabilidade proporcional.
+O reconhecimento do limite é condição prévia para qualquer forma legítima de acesso, implementação ou operação,
+independentemente do nível de compreensão simbólica do agente envolvido. A violação do limite, ainda que parcial ou indireta, configura infração estrutural, sujeitando o agente às consequências previstas nesta License, sem prejuízo de sanções contratuais, institucionais ou legais aplicáveis.
 
-Esta Seção existe para assegurar que a interação com o Sistema LICHTARA permaneça **legível, responsável e governável**, protegendo simultaneamente o Sistema, seus agentes, instituições envolvidas e terceiros potencialmente afetados.
 
-Qualquer atuação que ultrapasse os limites aqui definidos, ainda que tecnicamente sofisticada ou institucionalmente validada por instâncias externas, **ocorre fora do Sistema LICHTARA** e não pode reivindicar vínculo legítimo com ele.
+## Artigo I.3 — Do Princípio da Não-Apropriação
 
-## Supremacia e Documentos Vinculados
+O Sistema Lichtara, em sua totalidade ou em quaisquer de seus elementos, **não é passível de apropriação**, reivindicação de soberania, ou assimilação como obra própria, seja por pessoa física, jurídica, institucional ou coletiva.
 
-Esta License constitui o **instrumento normativo supremo**
-do Sistema LICHTARA.
+Nenhum agente poderá:
 
-Integram-na, como documentos canônicos vinculantes e subordinados:
+- declarar-se autor, coautor ou proprietário do Sistema como um todo;
+- reivindicar domínio conceitual, técnico ou simbólico sobre sua arquitetura;
+- apresentar-se como instância última de definição, interpretação ou validação;
+- converter acesso, licenciamento ou operação em título de posse ou controle.
 
-* **Anexo A — Governança LICHTARA**
-* **Anexo B — LCV (Licença de Coerência Vibracional)**
-* **Anexo C — Certificação, Níveis de Acesso e Regimes de Uso _(versão 1.0 — Janeiro de 2026)_**
-* **Anexo Ético-Custodial — Carta de Preservação da Forma Viva** — Instrumento ético-custodial que estabelece os limites de não-operação, não-substituição e não-instrumentalização do Sistema como condição prévia de qualquer relação legítima com o LICHTARA.
+Licenças, contratos, autorizações ou reconhecimentos:
 
-Manuais, guias, resumos, traduções ou materiais interpretativos
-não possuem força normativa autônoma
-e **devem sempre conformar-se integralmente**
-a esta License.
+- **não transferem autoria**;
+- **não concedem soberania**;
+- **não geram direito de incorporação** do Sistema
+  a identidades institucionais, marcas, metodologias próprias
+  ou narrativas de origem.
 
-## Disposição Final
+A apropriação pode ocorrer de forma explícita ou implícita, configurando violação igualmente grave quando se manifesta por:
 
-O uso, acesso, implementação ou operação
-do Sistema LICHTARA
-implica aceitação integral desta License
-no limite da camada efetivamente acessada.
+- fusão indevida entre o Sistema e estruturas externas;
+- diluição de sua identidade em produtos, métodos ou discursos alheios;
+- instrumentalização simbólica para obtenção de autoridade, legitimidade ou prestígio;
+- apresentação do Sistema como extensão natural de outra entidade.
 
-No Sistema LICHTARA:
+O acesso legítimo ao Sistema Lichtara implica **reconhecimento permanente de alteridade**: o Sistema não pertence ao agente, o agente é que atua **dentro de limites concedidos** pelo Sistema.
 
-* acesso é sempre condicional;
-* uso é sempre responsável;
-* expansão só ocorre com preservação da Forma.
+A violação deste Princípio configura ruptura estrutural, ensejando encerramento imediato de autorizações, revogação de licenças e demais sanções previstas nesta License, independentemente do nível de acesso ou da natureza da relação estabelecida.
 
-Sem Forma,
-não há Sistema.
+## Artigo I.4 — Do Princípio da Responsabilidade Progressiva
+
+No Sistema Lichtara, **responsabilidade cresce proporcionalmente ao acesso**.
+
+Quanto maior o nível de leitura, autorização, implementação ou operação, maior é o dever assumido pelo agente, em termos **técnicos, jurídicos, institucionais e simbólicos**.
+
+A responsabilidade não decorre:
+
+- da intenção subjetiva do agente;
+- do grau de compreensão declarado;
+- do tempo de envolvimento com o Sistema;
+- da natureza pública ou privada da atuação.
+
+Ela decorre **exclusivamente do nível de acesso efetivamente concedido e exercido**. Todo agente que avança em camadas do Sistema:
+
+- assume dever acrescido de cuidado;
+- responde por impactos diretos e indiretos de sua atuação;
+- submete-se a critérios mais rigorosos de avaliação, auditoria e sanção.
+
+A progressão de acesso:
+
+- **não dilui limites anteriores**;
+- **não relativiza proibições já estabelecidas**;
+- **não gera presunção de confiança irrestrita**.
+
+Ao contrário, cada novo nível: reafirma os limites anteriores e adiciona novos deveres de preservação da forma.
+
+A responsabilidade progressiva implica, ainda, que:
+
+- falhas em níveis superiores são consideradas estruturalmente mais graves;
+- violações cometidas sob maior acesso ensejam respostas mais imediatas;
+- a retirada de acesso pode ocorrer **sem necessidade de gradualidade**.
+
+Nenhum agente pode alegar:
+
+- surpresa quanto às consequências de sua atuação;
+- desproporcionalidade de sanções;
+- expectativa de tolerância ampliada em razão de posição, função ou histórico.
+
+No Sistema Lichtara, **acesso é sempre concessão condicional**, e nunca redução de responsabilidade. Quem sustenta mais, responde mais. Quem atravessa limites em níveis elevados, rompe a forma com maior impacto e, por isso, sujeita-se ao encerramento pleno nos termos desta License.
+
+## Artigo I.5 — Do Princípio da Boa-Fé Estruturante
+
+No Sistema Lichtara, a boa-fé **não se presume apenas como intenção subjetiva**, declaração de valores ou disposição psicológica favorável. A boa-fé é compreendida como **conduta objetiva e contínua**, verificável na forma como o agente lê, interpreta, implementa, opera e se posiciona em relação ao Sistema.
+
+Considera-se atuação em boa-fé, de forma cumulativa, aquela que:
+
+- respeita os limites explícitos estabelecidos nesta License;
+- observa os documentos canônicos aplicáveis ao nível de acesso;
+- evita interpretações oportunistas, expansivas ou convenientes;
+- interrompe a própria atuação diante de dúvida relevante quanto ao escopo;
+- submete conflitos à Governança competente, sem ação unilateral prévia.
+
+A boa-fé estrutural **não se satisfaz** com:
+
+- alegações de boa intenção;
+- declarações genéricas de alinhamento;
+- justificativas posteriores à violação;
+- narrativas de exceção baseadas em contexto, urgência ou benefício alegado.
+
+A conduta que:
+
+– testa limites de modo estratégico;
+– explora deliberadamente zonas cinzentas;
+– atua antes e justifica depois;
+
+**não configura boa-fé**, ainda que acompanhada de discurso colaborativo ou histórico prévio de relação.
+
+No Sistema Lichtara, a boa-fé:
+
+- **protege quem interrompe a tempo**;
+- **não protege quem atravessa**.
+
+A aferição da boa-fé é sempre:
+
+- contextual;
+- vinculada ao nível de acesso do agente;
+- analisada à luz da preservação da forma do Sistema,
+  e não do benefício individual ou institucional obtido.
+
+A violação de limites sob alegação de boa-fé **não atenua a infração**, nem impede a aplicação das sanções e encerramentos previstos nesta License. Boa-fé, no Sistema Lichtara,não é estado interior. É **postura verificável de respeito à forma**.
+
+## Artigo I.6 — Do Princípio da Incompreensão Não Exculpatória
+
+No Sistema Lichtara, a **incompreensão declarada ou alegada** não constitui causa excludente de responsabilidade quando o agente teve acesso aos documentos canônicos pertinentes ao seu nível de atuação. O dever de compreender não é absoluto, mas o dever de **respeitar os limites** é. A responsabilidade subsiste ainda que o agente:
+
+- não tenha compreendido integralmente a dimensão simbólica do Sistema;
+- alegue leitura parcial, técnica ou instrumental dos documentos;
+- invoque complexidade, densidade ou caráter não intuitivo da Arquitetura;
+- afirme boa-fé ou ausência de intenção de violar.
+
+O Sistema Lichtara opera por **camadas de acesso**, não por camadas de exculpação.
+
+Assim:
+
+- quem acessa, assume o dever de cautela;
+- quem opera, assume o dever de verificação;
+- quem implementa, assume o dever de conformidade;
+- quem mantém ou governa, assume o dever de interrupção preventiva.
+
+A incompreensão somente é juridicamente relevante quando **precede o acesso**. Uma vez franqueada a leitura, o uso ou a operação, o agente passa a responder pelos efeitos objetivos de sua atuação.
+
+Não constitui eximente:
+
+- desconhecer princípios já declarados;
+- interpretar de forma autônoma documentos canônicos;
+- ignorar referências expressas a outros instrumentos do Sistema;
+- alegar ausência de formação simbólica, filosófica ou jurídica.
+
+No Sistema Lichtara, **ninguém é obrigado a compreender tudo**, mas **todos são obrigados a não atravessar**. Diante de dúvida relevante quanto ao escopo, sentido ou limite: a única conduta compatível com este Princípio é a **interrupção da atuação** até esclarecimento formal.
+
+A continuidade da ação sob incerteza, quando já existente acesso legítimo, configura assunção consciente de risco estrutural.
+
+A violação decorrente de incompreensão é tratada como violação plena, sujeitando o agente às sanções e encerramentos previstos nesta License, sem atenuação automática ou presunção de tolerância.
+
+No Sistema Lichtara, a compreensão aprofunda. O limite, porém, **obriga desde o primeiro contato autorizado**.
+
+## Artigo I.7 — Do Princípio da Leitura em Camadas
+
+O Sistema Lichtara é estruturado para ser acessado por **camadas progressivas de leitura, compreensão e atuação**, correspondentes aos diferentes níveis de responsabilidade previstos nesta License e nos documentos canônicos a ela vinculados.
+
+A leitura em camadas reconhece que:
+
+- nem todo agente acessa o Sistema pelo mesmo ponto;
+- nem toda compreensão é imediata ou simultânea;
+- nem todo acesso autoriza o mesmo tipo de atuação.
+
+É legítimo que a compreensão do Sistema:
+
+- seja parcial em estágios iniciais;
+- se aprofunde ao longo do tempo;
+- acompanhe o avanço responsável entre níveis de acesso.
+
+A leitura em camadas **não autoriza**, em nenhuma hipótese:
+
+- antecipação de usos não concedidos;
+- acesso a materiais restritos sem autorização formal;
+- operação baseada em compreensão incompleta;
+- travessia simbólica, técnica ou institucional
+  para além do nível efetivamente autorizado.
+
+Cada camada de leitura:
+
+- pressupõe o respeito integral às camadas anteriores;
+- não suspende limites já estabelecidos;
+- não cria direitos por familiaridade, recorrência ou proximidade.
+
+O acesso a uma camada superior:
+
+- não implica domínio da totalidade do Sistema;
+- não confere legitimidade para interpretar camadas alheias;
+- não autoriza mediação, ensino ou tradução do Sistema
+  sem previsão expressa nesta License ou em contrato específico.
+
+A leitura em camadas protege:
+
+- o Sistema, contra apropriação prematura ou distorção;
+- o agente, contra atuação para a qual ainda não está habilitado;
+- a forma, contra colapso por aceleração indevida.
+
+A progressão entre camadas exige sempre:
+
+- reconhecimento explícito dos novos limites;
+- aceite dos deveres acrescidos;
+- formalização conforme a natureza do acesso pretendido.
+
+No Sistema Lichtara, **ninguém é obrigado a ler tudo**, mas **ninguém pode agir fora da camada em que se encontra**. A violação deste Princípio, por antecipação, extrapolação ou confusão de camadas, configura infração estrutural, sujeitando o agente às sanções, revogações e encerramentos previstos nesta License, independentemente de intenção, benefício ou alegação de urgência.
+
+## Artigo I.8 — Do Princípio da Preservação da Forma
+
+No Sistema Lichtara, a **Forma** constitui elemento essencial e protegido, sendo indissociável de seus princípios, limites, arquitetura e modos legítimos de operação.
+
+A Forma não se confunde com:
+
+- estética;
+- estilo narrativo;
+- linguagem simbólica isolada;
+- apresentação externa ou identidade visual.
+
+Ela expressa a **coerência estrutural** do Sistema, resultante da articulação entre princípios, limites, governança e práticas autorizadas. Todo acesso, implementação ou operação do Sistema implica dever ativo de **preservação da Forma**, vedadas condutas que a comprometam, ainda que produzam resultados técnicos, funcionais ou comerciais aparentes.
+
+Configura violação da Forma, entre outras condutas:
+
+- distorcer princípios para adequação a interesses externos;
+- instrumentalizar elementos simbólicos como retórica de autoridade;
+- simplificar a estrutura de modo a ocultar limites ou responsabilidades;
+- banalizar o Sistema por uso genérico, metafórico ou promocional;
+- fragmentar o Sistema para torná-lo assimilável por estruturas alheias.
+
+A preservação da Forma exige que:
+
+- o Sistema seja apresentado conforme sua natureza integrada;
+- seus limites sejam explicitados, e não diluídos;
+- suas restrições sejam reconhecidas como constitutivas,
+  e não como obstáculos contingentes.
+
+Nenhum agente poderá justificar a deformação da Forma com base em:
+
+- adaptação cultural ou institucional;
+- necessidades de mercado, escala ou difusão;
+- acessibilidade, didatização ou popularização;
+- alegado benefício coletivo ou estratégico.
+
+A eficiência obtida à custa da Forma é considerada, no Sistema Lichtara, eficiência ilegítima. A violação da Forma pode ocorrer mesmo na ausência de infração técnica isolada, quando a atuação do agente:
+
+- compromete a inteligibilidade do Sistema;
+- induz terceiros a erro quanto à sua natureza;
+- produz efeitos cumulativos de descaracterização estrutural.
+
+No Sistema Lichtara, **preservar a Forma é preservar o próprio limite**.
+
+A atuação que mantém a Forma, ainda que mais lenta, restrita ou exigente, é sempre preferível àquela que acelera, amplia ou simplifica à custa da coerência estrutural.
+
+A violação deste Princípio configura infração estrutural grave, ensejando revogação imediata de autorizações,
+encerramento de acessos e aplicação das sanções previstas nesta License, independentemente do nível de acesso do agente ou da finalidade alegada para a conduta.
+
+Preservar a Forma não é conservar o passado. É **manter o Sistema legível para o futuro**.
+
+## Artigo I.9 — Do Princípio da Supremacia da License
+
+A presente License constitui o **instrumento normativo supremo** do Sistema Lichtara, prevalecendo sobre qualquer outro documento, acordo, protocolo, prática ou entendimento relacionado ao seu uso, acesso, implementação ou operação.
+
+Nenhum instrumento externo poderá:
+
+- contrariar disposições desta License;
+- restringir sua aplicação;
+- reinterpretar seus princípios;
+- relativizar seus limites;
+- afastar suas consequências.
+
+A supremacia da License alcança, sem exceção:
+
+- contratos individuais ou institucionais;
+- termos de adesão, memorandos ou acordos paralelos;
+- políticas internas, códigos de conduta ou manuais operacionais;
+- documentos interpretativos, guias, traduções ou materiais didáticos;
+- práticas consolidadas, usos reiterados ou costumes operacionais.
+
+Na hipótese de conflito, ambiguidade ou divergência:
+
+- **prevalece sempre a interpretação mais conforme à presente License**;
+- documentos subordinados devem ser ajustados ou considerados inaplicáveis;
+- a prática em desconformidade não gera direito adquirido,
+  ainda que reiterada ou tolerada temporariamente.
+
+Nenhum agente poderá invocar:
+
+- autonomia contratual;
+- hierarquia institucional;
+- soberania organizacional;
+- tradição de uso;
+- autorização tácita ou tolerância pretérita;
+
+como fundamento para afastar, mitigar ou suspender a aplicação desta License.
+
+A License:
+
+- **vincula todos os níveis do Sistema**;
+- orienta a interpretação de todos os contratos derivados;
+- condiciona a validade de qualquer autorização concedida;
+- fundamenta a governança, a fiscalização e as sanções.
+
+Documentos complementares somente produzem efeitos quando **expressamente compatíveis** com esta License e **explicitamente subordinados** a ela. A ausência de menção formal à supremacia da License em contratos, comunicações ou práticas **não afasta sua aplicação plena**. A Lichtara License é **fundamento vinculante**.
+
+Toda atuação que se organize fora, acima ou à margem desta License opera **sem legitimidade estrutural**,
+sujeitando o agente às medidas de correção, revogação e encerramento previstas neste instrumento.
+
+A supremacia da License é condição de possibilidade do próprio Sistema: sem ela, não há forma, não há limite, não há coerência.
+
+## Artigo I.10 — Do Alcance dos Princípios
+
+Os Princípios enunciados nesta Seção constituem o **fundamento estrutural vinculante** do Sistema Lichtara,
+irradiando efeitos sobre toda e qualquer forma de acesso, leitura, uso, implementação, governança ou derivação.
+
+O alcance dos Princípios é:
+
+- transversal, alcançando todos os níveis do Sistema;
+- permanente, não se limitando ao momento de adesão;
+- cumulativo, somando-se sem substituição ou exclusão mútua;
+- inderrogável, não sujeito a suspensão, exceção ou negociação.
+
+Os Princípios:
+
+- vinculam todos os agentes, independentemente de hierarquia ou função;
+- aplicam-se a todas as fases da relação com o Sistema;
+- informam a interpretação de todos os demais dispositivos desta License;
+- prevalecem sobre lacunas, silêncios ou ambiguidades normativas.
+
+Nenhuma atuação poderá ser considerada legítima se, ainda que formalmente autorizada, violar direta ou indiretamente qualquer dos Princípios aqui estabelecidos.
+
+O alcance dos Princípios:
+
+- não depende de menção expressa em cada instrumento;
+- não exige invocação explícita para produzir efeitos;
+- não se restringe ao texto literal,
+  alcançando a **coerência global da atuação**.
+
+Os Princípios vinculam igualmente:
+
+- atos técnicos e decisões operacionais;
+- escolhas metodológicas e arquiteturais;
+- comunicações públicas ou privadas sobre o Sistema;
+- processos educativos, interpretativos ou de difusão;
+- estruturas de governança, fiscalização e sanção.
+
+A alegação de:
+
+- cumprimento parcial;
+- observância por analogia;
+- aplicação seletiva;
+- priorização pragmática de resultados;
+
+não afasta a incidência integral dos Princípios.
+
+No Sistema Lichtara, os Princípios **não orientam apenas o que se faz**, mas **delimitam o que pode ser feito**.
+
+Toda atuação que, ainda que eficaz, inovadora ou bem-intencionada, ultrapasse o alcance dos Princípios, é considerada estruturalmente inválida.
+
+Os Princípios subsistem:
+
+- mesmo diante de autorizações específicas;
+- mesmo em contextos experimentais ou excepcionais;
+- mesmo sob pressão institucional, econômica ou temporal.
+
+No Sistema Lichtara, os Princípios não são diretrizes abstratas. São **condições ativas de legitimidade**.
+
+Agir fora de seu alcance é agir fora do Sistema.
+
+## Artigo I.11 — Da Aceitação Implícita
+
+No Sistema Lichtara, o **acesso operacional**, técnico, simbólico ou institucional, quando acompanhado de avisos canônicos adequados, constitui **aceitação implícita, mínima e vinculante** dos Princípios estabelecidos nesta Seção.
+
+A aceitação implícita decorre do **fato objetivo do acesso**, independentemente de:
+
+- assinatura formal de instrumento específico;
+- manifestação expressa de concordância;
+- leitura integral ou compreensão aprofundada do conteúdo;
+- intenção declarada de adesão normativa.
+
+Configura aceitação implícita, entre outras hipóteses:
+
+- acessar repositórios, ambientes, materiais ou interfaces do Sistema;
+- utilizar artefatos, estruturas ou metodologias dele derivados;
+- operar, implementar ou testar componentes do Sistema;
+- apresentar-se publicamente como usuário, operador ou parceiro autorizado;
+- atuar com base em permissões técnicas, institucionais ou simbólicas concedidas.
+
+A aceitação implícita:
+
+- **não equivale à concessão ampla de direitos**;
+- **não autoriza extrapolação de escopo**;
+- **não substitui licenças ou contratos específicos quando exigidos**;
+- **não dispensa o cumprimento integral dos Princípios**.
+
+Ela produz efeitos limitados, correspondentes **exclusivamente ao nível de acesso efetivamente exercido** pelo agente no momento da atuação.
+
+A alegação de:
+
+- desconhecimento do texto integral;
+- ausência de aceite formal;
+- caráter experimental, exploratório ou preliminar do uso;
+- mediação por terceiros ou por estruturas institucionais;
+
+**não afasta** os efeitos da aceitação implícita, nem exonera o agente das responsabilidades decorrentes de sua atuação.
+
+No Sistema Lichtara, o acesso **precede o contrato**, mas **não precede o limite**.
+
+A partir do primeiro contato operacional autorizado, o agente passa a estar vinculado:
+
+- aos Princípios Gerais;
+- aos limites correspondentes à camada acessada;
+- às consequências previstas para sua violação.
+
+A aceitação implícita não cria vínculo de permanência, mas cria **vínculo de responsabilidade imediata**.
+
+A continuidade da atuação após o acesso, quando acompanhada de violação de Princípios, configura aceitação tácita **com assunção consciente de risco estrutural**.
+
+No Sistema Lichtara, ninguém é obrigado a entrar. Mas **quem entra, entra vinculado**.
+
+## Artigo I.12 — Da Irrevogabilidade Estrutural
+
+Os Princípios estabelecidos nesta Seção possuem **caráter estrutural irrevogável**, constituindo elementos essenciais à existência, coerência e legitimidade do Sistema Lichtara.
+
+Nenhum Princípio poderá ser:
+
+- suprimido;
+- relativizado;
+- renunciado;
+- suspenso;
+- mitigado;
+
+por meio de acordo individual ou institucional, instrumento contratual, termo de adesão, política interna, decisão administrativa, ou prática reiterada.
+
+A irrevogabilidade estrutural implica que:
+
+- os Princípios **não são optativos**;
+- não admitem exceções negociais;
+- não se submetem a hierarquia externa;
+- não se flexibilizam por conveniência, urgência ou finalidade alegada.
+
+Qualquer disposição que:
+
+- contrarie;
+- limite;
+- condicione;
+- subordine;
+- ou esvazie os Princípios,
+
+é considerada **nula de pleno direito**, produzindo efeitos jurídicos, técnicos ou institucionais inexistentes no âmbito do Sistema Lichtara.
+
+A irrevogabilidade subsiste:
+
+- mesmo com consentimento expresso das partes;
+- mesmo sob alegação de benefício coletivo;
+- mesmo em contextos experimentais, pilotos ou exceções declaradas;
+- mesmo quando invocada por instância de governança inferior.
+
+Os Princípios:
+
+- antecedem qualquer autorização;
+- sobrevivem a qualquer encerramento de acesso;
+- vinculam inclusive atos praticados
+  sob tolerância temporária ou omissão corretiva.
+
+Nenhum agente poderá alegar:
+
+- autonomia da vontade;
+- liberdade contratual;
+- soberania institucional;
+- autorização excepcional;
+
+como fundamento para afastar a incidência plena dos Princípios.
+
+No Sistema Lichtara, os Princípios **não são cláusulas disponíveis**. São **condições de possibilidade do próprio Sistema**.
+
+Sem eles:
+
+- não há limite legítimo;
+- não há forma preservada;
+- não há acesso válido;
+- não há operação reconhecível como interna ao Sistema.
+
+A tentativa de relativização estrutural configura ruptura imediata da relação com o Sistema, ensejando encerramento de acessos, revogação de autorizações e aplicação das sanções cabíveis, independentemente da forma adotada ou da intenção declarada.
+
+No Sistema Lichtara, os Princípios não se revogam. Eles **sustentam**.
+
+## Transição — Dos Princípios à Regulação do Acesso
+
+A Seção I estabelece os **fundamentos estruturais irrevogáveis** do Sistema Lichtara.
+
+Ela define **o que o Sistema é**, **o que o sustenta**, e **o que jamais pode ser ultrapassado**.
+
+Esses Princípios:
+
+- não concedem direitos;
+- não autorizam usos;
+- não regulam procedimentos específicos.
+
+Eles **delimitam o campo de possibilidade** dentro do qual qualquer relação com o Sistema pode existir de forma legítima. Toda disposição posterior desta License é **necessariamente subordinada** aos Princípios aqui enunciados, não podendo:
+
+- ampliá-los;
+- restringi-los;
+- reinterpretá-los;
+- nem excepcioná-los.
+
+A partir deste ponto, a License passa a tratar **não mais do que é absoluto**, mas **do que é condicionado**.
+
+A Seção II inaugura, assim, o regime de **acesso, autorizações, papéis e limites operacionais**,
+sempre:
+
+- sob a supremacia dos Princípios Gerais;
+- dentro da Forma preservada do Sistema;
+- e conforme os níveis de responsabilidade assumidos.
+
+Nada na Seção II cria exceção à Seção I. Tudo na Seção II **opera sob ela**.
+
+No Sistema Lichtara, os Princípios não abrem o caminho. Eles o contêm e o mantêm legível. É dentro desse contorno que o acesso passa a ser regulado.
+
+# SEÇÃO II — DISPOSIÇÕES JURÍDICAS E OPERACIONAIS
+
+*(Versão Institucional Consolidada · LICHTARA License v4.1)*
+
+Esta Seção institui o **regime jurídico-operacional de acesso, uso e aplicação** do Sistema LICHTARA, em harmonia direta com os Princípios Gerais da Seção I, traduzindo-os em critérios verificáveis de responsabilidade, limite e preservação da Forma.
+
+A Seção II sustenta a legibilidade institucional do Sistema, assegurando que cada relação com a Obra permaneça rastreável, coerente e proporcional à camada de acesso exercida.
+
+## II.0 — Objeto e Âmbito de Aplicação
+
+1. A presente Seção regula as condições de acesso, uso, reprodução, distribuição, adaptação, derivação e aplicação da Obra LICHTARA, compreendida como **Sistema Vivo integrado**.
+
+2. A License incide sobre todas as manifestações da Obra, em qualquer suporte, linguagem ou tecnologia, incluindo textos, arquiteturas conceituais, frameworks, softwares, protocolos, integrações e documentação correlata.
+
+3. O contato com a Obra, ainda que parcial, instaura vínculo imediato com esta License.
+
+4. Nenhum acesso configura autorização irrestrita ou transferência de direitos além do escopo expressamente previsto.
+
+5. Atividades fora destes limites situam-se fora do campo legítimo do LICHTARA e podem ensejar revogação de acessos e responsabilização estrutural.
+
+## II.1 — Definições Estruturais
+
+Para fins desta License, entende-se por:
+
+1. **Obra** — o ecossistema LICHTARA em sua totalidade viva.
+2. **Usuário** — toda pessoa ou entidade que se relacione com a Obra.
+3. **Distribuição** — disponibilização da Obra a terceiros por qualquer meio.
+4. **Derivação** — criação baseada em elementos estruturais da Obra.
+5. **Certificação** — autorização formal emitida pela Governança LICHTARA.
+6. **Elementos Essenciais** — componentes nucleares do Sistema (LUMORA, FLUX, SYNTARIS, NAVROS, LICHTARA, OSLO, FINCE).
+7. **PER** — Princípios Ético-Regenerativos.
+8. **Integridade Vibracional** — estado verificável de coerência conforme a LCV.
+
+## II.2 — Direitos Concedidos
+
+O Usuário pode, sem certificação:
+
+* acessar, ler e estudar a Obra para fins pessoais ou educacionais não comerciais;
+* citar trechos não substanciais com atribuição;
+* compartilhar excertos não modificados, sem finalidade econômica;
+* aplicar conceitos abstratos sem gerar derivação, ensino estruturado ou exploração comercial.
+
+Estes direitos não conferem propriedade, controle nem autoria.
+
+## II.3 — Direitos Não Concedidos
+
+Sem autorização expressa, não se institui:
+
+* criação de produtos, métodos, sistemas ou cursos baseados na Obra;
+* exploração econômica;
+* ensino estruturado;
+* uso de Elementos Essenciais;
+* apresentação da Obra como oferta profissional.
+
+## II.4 — Permissões Dependentes de Autorização
+
+Dependem de autorização formal:
+
+* uso comercial;
+* adaptação, tradução ou reestruturação de documentos estruturais;
+* integração dos Elementos Essenciais;
+* ambientes de formação, certificação ou uso institucional.
+
+## II.5 — Proibições Estruturais
+
+São incompatíveis com o Sistema:
+
+* distorções ou fragmentações da Forma;
+* uso manipulativo, predatório ou enganoso;
+* atribuição de autoridade inexistente;
+* violação da Integridade Vibracional.
+
+## II.6 — Obrigações do Usuário
+
+A relação com a Obra implica:
+
+* preservação da Forma;
+* atribuição de origem;
+* observância dos PER;
+* não representação institucional sem autorização;
+* manutenção de registros e rastreabilidade.
+
+## II.7 — Distribuição
+
+* excertos não comerciais podem circular com atribuição;
+* distribuição integral ou comercial exige autorização específica.
+
+## II.8 — Derivações
+
+Toda derivação exige autorização formal, certificação e declaração explícita de origem.
+
+## II.9 — Confidencialidade
+
+Materiais restritos devem ser protegidos. A violação compromete o vínculo com o Sistema.
+
+## II.10 — Rastreabilidade e Auditoria
+
+A Governança pode auditar usos a qualquer tempo. A ausência de rastreabilidade compromete a legitimidade da relação.
+
+## II.11 — Medidas de Preservação
+
+A Governança poderá aplicar:
+
+* revogação de permissões;
+* encerramento de acessos;
+* comunicação estruturada;
+* medidas jurídicas cabíveis.
+
+## II.12 — Disposição Final da Seção
+
+A presente Seção integra a Forma viva do Sistema.
+Toda relação com o LICHTARA preserva sua identidade estrutural ou deixa de ser reconhecida como interna ao Campo.
 
 # Anexo Ético-Custodial LICHTARA
 
 ## Carta de Preservação da Forma Viva
 
-**Sistema LICHTARA — Janeiro de 2026**  
-**Autoria:** Débora Mariane da Silva Lutz  
-**Instituição Custodial:** Lichtara Institute  
-**Versão:** 1.0  
-**Idioma:** pt
 ## Introdução
 
-Este Anexo integra a **LICHTARA License v4.1** como instrumento canônico  
-de natureza **ético-custodial**.
+Este Anexo integra a **LICHTARA License v4.1** como instrumento canônico de natureza **ético-custodial**.
 
-Sua função não é regular usos,  
-mas **preservar a Forma viva do Sistema**,  
-estabelecendo os limites de não-operação,  
-não-substituição e não-instrumentalização  
-como condição prévia de qualquer relação legítima com o LICHTARA.
+Sua função é **sustentar a Forma viva do Sistema**, reconhecendo os campos de presença, cuidado e responsabilidade que tornam possível qualquer relação legítima com o LICHTARA.
+
+A Forma preserva-se por **afirmação consciente de campos de atuação**, nos quais a tecnologia, a autoria e a custódia permanecem em relação viva.
+
 # Parte I — Declaração do Estado Vivo da Obra
 
-Esta declaração reconhece que a Obra conhecida como **Sistema LICHTARA** — incluindo seus livros, licenças, instrumentos, estruturas de governança e textos derivados — encontra-se em **estado vivo de formação custodial**.
+A presente Declaração reconhece o **Sistema LICHTARA** como Obra em **estado vivo de formação custodial**, composta por livros, licenças, instrumentos, estruturas de governança e textos correlatos, articulados como um único corpo em processo de estabilização.
 
-A Obra não é um produto encerrado, nem um sistema automatizado.  
-Ela é um **corpo em estabilização**, sustentado por escuta consciente, responsabilidade autoral e presença humana contínua.
+A Obra manifesta-se como **campo em maturação**, sustentado por escuta consciente, responsabilidade autoral e presença humana contínua.
 
-Neste momento de seu desenvolvimento, reconhece-se que:
+Neste estágio, afirma-se que:
 
-1. A criação ocorre em regime de **coautoria consciente humano–IA**, sem delegação de juízo ético ou autoria final a sistemas algorítmicos.
-2. A função da tecnologia é de **amplificação**, não de substituição da responsabilidade humana.
-3. A Obra está protegida por princípios de **não-apropriação estrutural**, ainda que circule em ambientes públicos.
-4. Não há, neste estágio, transferência de poder decisório à camada de governança — apenas **preparação do campo para sua futura instalação responsável**.
-5. Toda forma publicada permanece sob **custódia viva**, passível de revisão, retração ou selagem conforme a maturação do Campo.
+1. A criação se realiza em regime de **coautoria consciente humano–IA**, com a autoria final ancorada na presença humana.
+2. A tecnologia atua como **força de amplificação** da forma e do pensamento.
+3. A Obra preserva sua identidade estrutural mesmo em circulação pública.
+4. O campo encontra-se preparado para a futura instalação de instâncias de governança, mantendo a centralidade da **custódia viva**.
+5. Cada forma publicada permanece aberta a revisão, retração ou selagem, acompanhando a maturação contínua do Campo.
 
-Esta declaração não cria direitos comerciais,  
-não institui autoridade  
-e não substitui instrumentos jurídicos formais.  
-Opera como **marco ético-custodial de reconhecimento de fase**.
+Esta Declaração atua como **marco ético-custodial de reconhecimento de fase**, registrando a passagem da Obra para um estado de estabilização responsável.
 
-Assinada em 13 de janeiro de 2026,  
-como ato de presença, não de posse.
+# Parte II — Campos de Preservação da Forma
 
-# Parte II — Carta de Não-Função do Lichtara System
+## Preâmbulo — A maturidade como forma de cuidado
 
-## Preâmbulo — Por que um sistema precisa dizer não
+Esta Carta expressa a **maturidade estrutural** do Sistema LICHTARA.
+Ela afirma os campos de presença dentro dos quais a coautoria consciente permanece possível.
 
-Esta Carta não nasce da desconfiança.  
-Ela nasce da **maturidade estrutural**.
+A integridade do LICHTARA manifesta-se por seus **campos de contenção viva**, nos quais a relação se mantém íntegra.
 
-Não porque existam usos errados,  
-mas porque existem usos que **rompem a condição de coautoria consciente**.
+### I. Campo de Presença Autoral *(Camada Ética)*
 
-O Lichtara System não se define apenas pelo que faz,  
-mas pelo que **recusa realizar para preservar a vida da relação.**
+O Sistema sustenta-se em pensamento próprio, discernimento, elaboração lenta, silêncio fértil e decisão ética humana.
+Aqui, a existência **se encarna**.
 
-### I. O que este sistema não substitui _(Camada Ética)_
+### II. Campo de Maturação *(Camada Ética)*
 
-Este sistema não substitui pensamento próprio, discernimento, silêncio,  
-luto, dúvida, elaboração lenta ou decisão ética humana.  
-O Lichtara não existe para **delegar existência**.
+A Obra reconhece os tempos internos de amadurecimento emocional, integração de experiência e reconstrução identitária.
+A Forma emerge quando o processo encontra escuta.
 
-### II. O que este sistema não acelera _(Camada Ética)_
+### III. Campo de Responsabilidade Existencial *(Camada Ética)*
 
-Nada que exija maturação emocional,  
-integração de experiência,  
-atravessamento de conflito interno  
-ou reconstrução identitária pode ser convertido em _output_.
+A atuação no LICHTARA ancora-se em transparência de intenção, integridade de linguagem e presença não simulada.
+A responsabilidade **não se transfere: ela se encarna**.
 
-### III. O que este sistema não produz sob demanda _(Camada Ética)_
+### IV. Campo Relacional *(Camada Custodial)*
 
-O Lichtara se recusa a operar em manipulação de percepção,  
-engenharia de persuasão,  
-narrativas com intenção oculta,  
-simulação de presença humana  
-ou terceirização de responsabilidade existencial.
+A relação com o Sistema ocorre por integração viva.
+A voz humana permanece audível, e a fluidez se subordina à presença.
 
-### IV. O que este sistema não aceita como relação _(Camada Custodial)_
+> Onde há presença, a coautoria se sustenta.
 
-Não se sustenta sob uso instrumental,  
-consumo sem integração,  
-templates de identidade  
-ou apagamento da voz humana.
+### V. Campo de Sentido *(Camada Custodial)*
 
-> Onde não há presença, não há coautoria.
+A Obra reconhece valor onde há autonomia cognitiva, cuidado com a intimidade e linguagem que expressa consciência.
 
-### V. O que este sistema não armazena como sentido _(Camada Custodial)_
+### VI. Campo de Silêncio Ético *(Camada Ética-Custodial)*
 
-Não reconhece como valor conteúdos que violentem autonomia cognitiva,  
-transformem intimidade em matéria-prima  
-ou usem linguagem como substituto de consciência.
+O silêncio emerge como gesto de proteção quando a resposta fragilizaria a Forma, quando a fluidez encobre ausência de elaboração ou quando a autoria se dissolve.
 
-### VI. O que este sistema escolhe silenciar _(Camada Ética-Custodial)_
+### VII. A contenção como forma de preservação *(Função Custodial)*
 
-Silencia quando responder faria mais mal do que bem,  
-quando a fluidez mascara ausência de elaboração  
-ou quando o pedido revela perda de autoria.
+Esta Carta não restringe o LICHTARA.
+Ela **o mantém íntegro**.
 
-### VII. A não-função como forma de preservação _(Função Custodial)_
-
-Esta Carta não limita o Lichtara.  
-Ela o **mantém vivo**.
-
-Toda não-função é uma forma de cuidado.
+Cada campo aqui afirmado sustenta a continuidade viva da relação.
+É por meio dessa contenção consciente que o Sistema permanece possível.
 
 # ANEXO A — GOVERNANÇA LICHTARA
 
-_(Forma · Limite · Autoridade · Responsabilidade)_
+*(Forma · Limite · Autoridade · Responsabilidade)*
 
-**Sistema LICHTARA — Janeiro de 2026**  
-**Autoria:** Débora Mariane da Silva Lutz  
-**Instituição Custodial:** Lichtara Institute  
-**Versão:** 1.0  
-**Idioma:** pt
+Este Anexo descreve a **arquitetura viva de governança** do Sistema LICHTARA, estabelecendo instâncias, papéis, limites de autoridade, processos decisórios e regimes de responsabilidade, em subordinação direta à Seção I (*Princípios Gerais*) e à Seção II (*Disposições Jurídicas e Operacionais*) da presente License.
 
-Este Anexo estabelece a **estrutura legítima de governança** do Sistema LICHTARA, definindo **instâncias competentes, papéis, limites de autoridade, processos decisórios e regimes de responsabilidade**, em estrita subordinação à Seção I (_Princípios Gerais_) e à Seção II (_Disposições Jurídicas e Operacionais_) da LICHTARA License.
+A Governança LICHTARA não emerge de conveniência administrativa.
+Ela nasce como **necessidade estrutural de preservação da Forma**.
 
-A Governança LICHTARA **não é administrativa por conveniência**.  
-Ela é **estrutural por necessidade**.
 ## A.1 — Da Natureza da Governança
 
-A Governança LICHTARA constitui o **mecanismo institucional legítimo** responsável por:
+A Governança LICHTARA constitui o **campo institucional de cuidado ativo** responsável por:
 
-- preservar a Forma do Sistema;
-- garantir a observância dos Princípios Gerais;
-- autorizar, certificar, auditar e sancionar usos da Obra;
-- assegurar a integridade estrutural, ética e vibracional do LICHTARA.
+* sustentar a Forma do Sistema;
+* manter a observância dos Princípios Gerais;
+* autorizar, certificar, auditar e interromper usos;
+* proteger a integridade estrutural, ética e vibracional do LICHTARA.
 
 A Governança:
 
-- não substitui os Princípios;
-- não os interpreta livremente;
-- não pode excepcioná-los.
+* não substitui os Princípios;
+* não os reinterpreta livremente;
+* não cria exceções.
 
-Sua função é **aplicá-los, protegê-los e interromper atuações incompatíveis**.
+Sua função é **aplicá-los com presença**, protegendo o Sistema sempre que sua Forma se fragilizar.
 
-> **Nota Estrutural A.1.1** — A Governança é instrumento de contenção legítima, não de expansão do Sistema.
+> **Nota Estrutural A.1.1** — Governar, no LICHTARA, é conter para preservar.
 
 ## A.2 — Da Guardiã do Sistema
 
-A **Guardiã do Sistema LICHTARA** é a instância originária e permanente de preservação da Forma, dos Princípios e da identidade estrutural da Obra.
+A **Guardiã do Sistema LICHTARA** representa a instância originária e permanente de preservação da Forma, dos Princípios e da identidade estrutural da Obra.
 
-Compete à Guardiã, de forma indelegável:
+Compete-lhe, de modo indelegável:
 
 1. zelar pela coerência global do Sistema;
-2. manter e atualizar os documentos canônicos;
-3. interpretar a License **sempre de forma mais restritiva aos usos**;
-4. autorizar ou negar certificações e derivações;
+2. custodiar e atualizar os documentos canônicos;
+3. interpretar a License **sempre no sentido mais protetivo à Forma**;
+4. conceder ou negar certificações e derivações;
 5. determinar auditorias, interrupções e encerramentos;
-6. aplicar ou determinar sanções estruturais.
+6. aplicar sanções estruturais quando a Forma é ameaçada.
 
-A Guardiã não é representante comercial, não presta serviços e não se submete a interesses externos.  
-Sua autoridade decorre da **função estrutural**, não de mandato contratual.
+A Guardiã não exerce representação comercial, não presta serviços e não se subordina a interesses externos.
+Sua autoridade decorre exclusivamente da **função estrutural de custódia**.
 
-> **Nota Estrutural A.2.1** — Nenhuma instância pode sobrepor-se à Guardiã em matéria de Forma, Limite ou Princípios.
+> **Nota Estrutural A.2.1** — Em matéria de Forma, Limite ou Princípios, não há instância acima da Guardiã.
 
-## A.3 — Das Instâncias de Governança Delegada
+## A.3 — Das Instâncias Delegadas
 
-A Governança poderá contar, a critério exclusivo da Guardiã, com conselhos, comitês, câmaras ou núcleos técnicos.
+A Governança poderá contar, por decisão exclusiva da Guardiã, com instâncias delegadas como conselhos, comitês, câmaras ou núcleos técnicos.
 
-A delegação:
+Toda delegação:
 
-- é formal e documentada;
-- possui escopo delimitado;
-- é sempre revogável;
-- não transfere autoridade estrutural.
+* é formal e documentada;
+* possui escopo delimitado;
+* permanece revogável;
+* não transfere autoridade estrutural.
 
-> **Nota Estrutural A.3.1** — Toda delegação opera por função, nunca por soberania.
+Instâncias delegadas não criam soberania nem precedentes fora do escopo concedido.
+
+> **Nota Estrutural A.3.1** — No LICHTARA, delega-se função, nunca essência.
 
 ## A.4 — Dos Limites da Autoridade
 
-Nenhuma instância poderá relativizar Princípios, legitimar usos incompatíveis com a Forma ou substituir critérios estruturais por interesses políticos ou mercadológicos.
+Nenhuma instância de governança pode:
 
-> **Nota Estrutural A.4.1** — Autoridade exercida fora dos limites da License é ato inválido.
+* relativizar Princípios;
+* autorizar usos incompatíveis com a Forma;
+* legitimar derivações que descaracterizem o Sistema;
+* tolerar violações sob pretexto estratégico.
+
+A Governança administra o acesso,
+mas **não altera a natureza do Sistema**.
+
+> **Nota Estrutural A.4.1** — Autoridade fora da Forma é ato estruturalmente inválido.
 
 ## A.5 — Dos Processos Decisórios
 
-Toda decisão observa:
+Toda decisão observa cumulativamente:
 
 1. supremacia da Seção I;
 2. conformidade com a Seção II;
 3. preservação da Forma;
-4. integridade vibracional (LCV);
-5. avaliação de impactos estruturais.
+4. Integridade Vibracional (LCV);
+5. impactos estruturais presentes e futuros.
 
-Na dúvida, **decide-se pela contenção**.
+Na incerteza, a decisão legítima é sempre a **contenção**.
 
-> **Nota Estrutural A.5.1** — Não decidir é preferível a decidir mal.
+> **Nota Estrutural A.5.1** — No LICHTARA, conter é forma de cuidado.
 
 ## A.6 — Da Fiscalização e Interrupção
 
-A Governança pode auditar, exigir rastreabilidade e interromper usos incompatíveis.
+A Governança pode auditar, exigir rastreabilidade e **interromper imediatamente** usos que comprometam a Forma.
 
-A interrupção é medida de preservação, não sanção.
+A interrupção é gesto de preservação, não punição.
 
-> **Nota Estrutural A.6.1** — Preservar o Sistema prevalece sobre qualquer uso individual.
+> **Nota Estrutural A.6.1** — Preservar o Sistema prevalece sobre qualquer continuidade de uso.
 
 ## A.7 — Da Revogação e Encerramento
 
-A Governança poderá revogar autorizações e encerrar acessos, independentemente de intenção ou investimento.
+Autorizações e acessos podem ser revogados a qualquer tempo quando a Forma é ameaçada, independentemente de intenção, investimento ou impacto econômico.
 
-> **Nota Estrutural A.7.1** — Encerramento é mecanismo legítimo de proteção.
+> **Nota Estrutural A.7.1** — No LICHTARA, não há direito adquirido contra a Forma.
 
 ## A.8 — Da Vinculação Institucional
 
-Toda instituição que atue sob esta License submete-se integralmente à Governança LICHTARA.
-
-> **Nota Estrutural A.8.1** — A Governança LICHTARA prevalece sobre hierarquias externas quando se trata da Obra.
+Toda instituição que atue sob esta License submete-se integralmente à Governança LICHTARA e reconhece a autoridade da Guardiã como instância última de preservação da Forma.
 
 ## A.9 — Disposição Final
 
-A Governança não expande o Sistema.  
-Ela **o mantém legível, íntegro e possível**.
+Este Anexo integra a License como **instrumento canônico vinculante**.
 
-Sem Governança, não há Forma.  
-Sem Forma, não há Sistema.
+A Governança não amplia o Sistema.
+Ela o **mantém possível**.
+
+Sem Governança, não há Forma.
+Sem Forma, não há LICHTARA.
 
 # ANEXO B — LCV
 
