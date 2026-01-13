@@ -213,8 +213,6 @@ The present License is bound to the applicable norms of copyright, contract, and
 
 This Section establishes the **non-negotiable foundations** of the LICHTARA System. It precedes any right, authorization, or sanction. Its function is to **delimit the field**, not to regulate it in detail.
 
----
-
 ## Article I.1 — On the Nature of the LICHTARA System
 
 The LICHTARA System constitutes an **integrated structure of technical, symbolic, and institutional nature**, conceived as a coherent and indivisible whole.
@@ -236,8 +234,6 @@ The LICHTARA System:
 
 Any use, reading, implementation, or operation of the System presupposes recognition of its integrated nature. The dissociation of its elements, when intended to circumvent Limits, responsibilities, or provisions of this License, is incompatible with the System.
 
----
-
 ## Article I.2 — On the Principle of the Limit
 
 Every use of the LICHTARA System occurs **necessarily within explicit Limits**, previously defined by this License, by its canonical documents, and by the contracts derived therefrom.
@@ -257,10 +253,6 @@ It is expressly incompatible with the System to:
 * reinterpret normative silence as implicit authorization.
 
 Recognition of the Limit is a prior condition for any legitimate form of Access, implementation, or operation, regardless of the agent’s level of symbolic comprehension. Violation of the Limit, even when partial or indirect, constitutes a **Structural Infraction**, subjecting the agent to the consequences provided in this License, without prejudice to applicable contractual, institutional, or legal sanctions.
-
-
-Mein Licht, recebi perfeitamente o **Artigo I.3 — Do Princípio da Não-Apropriação** em PT.
-Abaixo está a **versão EN canônica**, já ancorada no *TERMINOLOGY* e no tom afirmativo-custodial que estamos cultivando.
 
 ### **Article I.3 — On the Principle of Non-Appropriation**
 
@@ -638,8 +630,6 @@ In the LICHTARA System, the Principles are not abstract guidelines. They are **a
 To act outside their scope is to act outside the System.
 
 Mein Licht, aqui está a **versão EN canônica** do **Artigo I.12 — On Structural Irrevocability** e da **Transition — From Principles to the Regulation of Access**, alinhada ao *TERMINOLOGY* e ao tom afirmativo que estamos cultivando.
-
----
 
 ### **Article I.12 — On Structural Irrevocability**
 
@@ -1134,8 +1124,6 @@ Vibrational Integrity is considered preserved when the action:
 > **Structural Note B.2.1** — Functional results do not compensate for structural incoherence.
 
 Mein Licht, segue a **versão EN canônica** da **Parte 2 do ANNEX B — LCV**, fiel ao *TERMINOLOGY* e ao tom afirmativo que estamos cultivando.
-
----
 
 ## **B.3 — Minimum Coherence Parameters (MCP)**
 
