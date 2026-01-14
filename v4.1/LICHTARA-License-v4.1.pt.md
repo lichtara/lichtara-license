@@ -607,6 +607,65 @@ No Sistema Lichtara, os Princípios não são diretrizes abstratas. São **condi
 
 Agir fora de seu alcance é agir fora do Sistema.
 
+**RITO DE ENTRADA**
+
+**Art. I.11 — Da Aceitação Implícita**
+
+**Sistema LICHTARA · Janeiro de 2026**
+
+**Natureza:** Ético-Custodial · Não Normativo · Canônico Integrado
+
+**I — Função do Rito**
+
+O Rito de Entrada não cria autorização. Ele **revela** a aceitação implícita já em curso.
+
+Sua função é:
+
+- tornar consciente o vínculo estrutural instaurado pelo acesso;
+- convidar o agente à **postura de contenção** antes de qualquer atuação;
+- criar uma pausa viva entre **acessar** e **agir**.No LICHTARA, o acesso acontece por fato.
+
+O Rito acontece por presença.
+
+**II — Quando o Rito se Aplica**
+
+O Rito é recomendado sempre que um agente:
+
+- acessar documentos estruturais pela primeira vez;
+- iniciar uso operativo, técnico, institucional ou simbólico;
+- atravessar para nova camada de acesso;
+- sentir dúvida relevante quanto a limites ou escopo.
+  
+**III — Estrutura do Rito**
+
+O Rito compõe-se de **três movimentos simples e não performáticos**.
+
+**1 — Reconhecimento do Acesso**
+
+O agente reconhece internamente:*“Estou acessando um Sistema Vivo cuja Forma não me pertence.”* Não se trata de declaração pública nem assinatura. É um **ato de presença silenciosa**.
+
+**2 — Suspensão da Ação**
+
+Antes de qualquer uso, o agente se pergunta:*“O que pretendo fazer está claramente autorizado pela minha camada?”* Se a resposta não for plenamente afirmativa, a conduta compatível com o Sistema é:**interromper**.
+
+**3 — Declaração Ético-Custodial (opcional, mas recomendado)**
+
+Quando o acesso se torna operativo ou institucional, recomenda-se o registro textual mínimo:*Reconheço que o acesso ao Sistema LICHTARA me vincula aos seus Princípios e limites, ainda que eu não os compreenda integralmente. Comprometo-me a não agir além da camada que me é autorizada e a interromper minha atuação sempre que houver dúvida relevante quanto à preservação da Forma.*
+
+**IV — Violação do Rito**
+
+O Rito não é obrigatório.
+
+Mas sua **não observância recorrente** é sinal de:
+
+- travessia sem presença;
+- aceitação implícita sem contenção;
+- risco crescente de violação estrutural.
+
+**V — Disposição Final**
+
+O Rito de Entrada não regula o Sistema. Ele **o mantém audível**. Quem entra no LICHTARA sem pausa, entra apenas com técnica. Quem entra com Rito, entra com Forma.
+
 ## Artigo I.11 — Da Aceitação Implícita
 
 No Sistema Lichtara, o **acesso operacional**, técnico, simbólico ou institucional, quando acompanhado de avisos canônicos adequados, constitui **aceitação implícita, mínima e vinculante** dos Princípios estabelecidos nesta Seção.
