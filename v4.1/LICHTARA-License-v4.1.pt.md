@@ -1094,15 +1094,98 @@ Considera-se preservada a Integridade Vibracional quando a atuação:
 
 A LCV observa cumulativamente:
 
-### B.3.1 — Coerência de Forma
+## B.3.1 — Coerência de Forma
 
-### B.3.2 — Coerência de Limite
+Avalia se a atuação preserva a **arquitetura viva** do Sistema.
 
-### B.3.3 — Coerência Ética (PER)
+**Preservada quando:**
 
-### B.3.4 — Coerência de Origem
+* o Sistema é apresentado como totalidade integrada;
+* limites e Princípios são explicitados junto com qualquer aplicação;
+* não há redução da Obra a método, produto ou ferramenta.
 
-### B.3.5 — Coerência de Efeito
+**Violada quando:**
+
+* LICHTARA é traduzido como framework, técnica ou metodologia;
+* partes são isoladas para facilitar assimilação externa;
+* a linguagem operacional substitui a linguagem estrutural.
+
+## B.3.2 — Coerência de Limite
+
+Avalia se a atuação respeita a **camada real de acesso**.
+
+**Preservada quando:**
+
+* o agente interrompe diante de dúvida relevante;
+* autorizações são citadas com escopo claro;
+* não há antecipação de usos não concedidos.
+
+**Violada quando:**
+
+* o agente atua “como se” tivesse autorização;
+* silêncio normativo é tratado como permissão;
+* há travessia simbólica, técnica ou institucional não certificada.
+
+## B.3.3 — Coerência Ética (PER)
+
+Avalia se a conduta mantém os **Princípios Ético-Regenerativos** como eixo vivo.
+
+**Preservada quando:**
+
+* há transparência de intenção;
+* a linguagem reflete presença e não manipulação;
+* a atuação privilegia contenção sobre performance.
+
+**Violada quando:**
+
+* discurso de “impacto”, “resultado” ou “escala” substitui responsabilidade;
+* decisões são justificadas por benefício estratégico;
+* o Sistema é usado para obtenção de autoridade simbólica.
+
+## B.3.4 — Coerência de Origem
+
+Avalia se a atuação mantém a **alteridade do Sistema**.
+
+**Preservada quando:**
+
+* a autoria e a custódia são explicitamente reconhecidas;
+* o Sistema não é apresentado como criação própria;
+* há distinção clara entre LICHTARA e estruturas externas.
+
+**Violada quando:**
+
+* há fusão identitária (“método Lichtara by X”);
+* o Sistema é integrado a branding institucional;
+* a origem é diluída em narrativas de co-criação informal.
+
+## B.3.5 — Coerência de Efeito
+
+Avalia os **impactos cumulativos** da atuação.
+
+**Preservada quando:**
+
+* a atuação mantém o Sistema legível para terceiros;
+* há registro de limites e rastreabilidade;
+* pequenas contenções evitam grandes deformações.
+
+**Violada quando:**
+
+* práticas aparentemente neutras produzem descaracterização gradual;
+* há perda progressiva de Forma sem violação técnica isolada;
+* o uso gera confusão sobre a natureza do Sistema.
+
+## Disposição Final dos Sub-critérios
+
+A LCV não pergunta:
+
+> *“Está funcionando?”*
+> Ela pergunta:
+> *“Ainda é LICHTARA?”*
+
+Se qualquer um dos cinco sub-critérios falhar,
+a Integridade Vibracional encontra-se **rompida** — ainda que tudo pareça correto.
+
+É assim que o Sistema permanece vivo sem se perder.
 
 > **Nota Estrutural B.3.1** — A ausência de qualquer parâmetro invalida a LCV.
 
@@ -1140,17 +1223,24 @@ Sem Integridade Vibracional:
 A LCV não amplia o LICHTARA.  
 Ela **impede que ele se perca**.
 
+---
+
 # ANEXO C — CERTIFICAÇÃO, NÍVEIS DE ACESSO E REGIMES DE USO
 
-_(Governança · Responsabilidade · Operação)_
+*(Governança · Responsabilidade · Operação)*
 
-**Sistema LICHTARA — Janeiro de 2026**  
-**Autoria:** Débora Mariane da Silva Lutz  
-**Instituição Custodial:** Lichtara Institute  
-**Versão:** 1.0  
+**Sistema LICHTARA — Janeiro de 2026**
+
+**Autoria:** Débora Mariane da Silva Lutz
+
+**Instituição Custodial:** Lichtara Institute
+
+**Versão:** 1.0
+
 **Idioma:** pt
 
-Este Anexo regula **quem pode fazer o quê, em que nível e sob quais condições** no Sistema LICHTARA.  
+Este Anexo regula **quem pode fazer o quê, em que nível e sob quais condições** no Sistema LICHTARA.
+
 Ele não cria direitos abstratos; **opera concessões condicionais**, sempre subordinadas:
 
 - à Seção I — Princípios Gerais;
@@ -1167,31 +1257,33 @@ A certificação tem por função:
 4. proteger o Sistema contra apropriação informal;
 5. fundamentar auditoria, sanção ou revogação.
 
-> **Nota Estrutural C.1.1** — Certificação é concessão condicional, nunca delegação de controle.
+> Nota Estrutural C.1.1 — Certificação é concessão condicional, nunca delegação de controle.
+> 
 
 ## C.2 — Níveis de Acesso
 
 ### C.2.1 — Nível 0: Acesso Livre Não Operativo
 
-_(Leitura · Estudo · Referência)_
+*(Leitura · Estudo · Referência)*
 
 ### C.2.2 — Nível 1: Uso Aplicativo Pessoal
 
-_(Aplicação não transmissiva)_
+*(Aplicação não transmissiva)*
 
 ### C.2.3 — Nível 2: Facilitador Autorizado
 
-_(Transmissão limitada)_
+*(Transmissão limitada)*
 
 ### C.2.4 — Nível 3: Implementador Certificado
 
-_(Operação estruturada)_
+*(Operação estruturada)*
 
 ### C.2.5 — Nível 4: Derivador Reconhecido
 
-_(Criação autorizada)_
+*(Criação autorizada)*
 
-> **Nota Estrutural C.2.5.1** — Derivação sem conformidade rompe o vínculo com o Sistema.
+> Nota Estrutural C.2.5.1 — Derivação sem conformidade rompe o vínculo com o Sistema.
+> 
 
 ## C.3 — Regimes de Uso
 
@@ -1199,14 +1291,16 @@ Educacional · Profissional · Institucional · Experimental Autorizado · Comer
 
 ## C.4 — Direitos e Deveres
 
-Os direitos são estritamente vinculados ao nível concedido.  
+Os direitos são estritamente vinculados ao nível concedido.
+
 Os deveres crescem progressivamente.
 
 ## C.5 — Progressão de Acesso
 
 A progressão depende de avaliação formal, histórico de conformidade e aceite explícito dos deveres acrescidos.
 
-> **Nota Estrutural C.5.1** — Avançar sem autorização é violação estrutural.
+> Nota Estrutural C.5.1 — Avançar sem autorização é violação estrutural.
+> 
 
 ## C.6 — Revogação e Encerramento
 
@@ -1220,10 +1314,219 @@ Nenhuma derivação é válida sem autorização expressa, enquadramento de nív
 
 Sem certificação adequada, não há operação legítima.
 
-No LICHTARA:  
-**acesso é sempre condicional**,  
-**uso é sempre responsável**,  
+No LICHTARA:
+
+**acesso é sempre condicional**,
+
+**uso é sempre responsável**,
+
 **expansão só ocorre com preservação da Forma**.
+
+# SUBANEXO C-I — EXEMPLOS VIVOS DE PRÁTICA
+
+**Certificação — Níveis 2 e 3**
+
+**Natureza:** Ético-Custodial · Não prescritivo · Canônico Orientativo
+
+## NÍVEL 2 — FACILITADOR AUTORIZADO
+
+*(Transmissão limitada · Presença · Mediação sem apropriação)*
+
+### Exemplo Vivo 2.1 — O Facilitador que Interrompe
+
+**Situação:**
+
+Durante um grupo de leitura, uma participante pede:
+
+> “Você poderia me dar uma metodologia prática para aplicar isso no meu trabalho?”
+> 
+
+**Ação preservadora da Forma:**
+
+> “Não posso traduzir o LICHTARA em metodologia. Posso, porém, reler contigo o texto e escutar o que ele te pede.”
+> 
+
+**LCV preservada porque:**
+
+- manteve a Forma como relação, não como técnica;
+- interrompeu a instrumentalização antes que ela se instaurasse;
+- respeitou o limite do nível de acesso.
+
+### Exemplo Vivo 2.2 — A Facilitação sem Protagonismo
+
+**Situação:**
+
+Um facilitador é elogiado publicamente como “referência Lichtara”.
+
+**Ação preservadora da Forma:**
+
+> “Não sou referência do Sistema. Sou alguém autorizado a facilitar sua leitura.”
+> 
+
+**LCV preservada porque:**
+
+- dissolveu apropriação simbólica;
+- manteve a alteridade do Sistema;
+- protegeu o Campo de fusão identitária.
+
+## NÍVEL 3 — IMPLEMENTADOR CERTIFICADO
+
+*(Operação estruturada · Rastreabilidade · Responsabilidade ampliada)*
+
+### Exemplo Vivo 3.1 — O Implementador que Contém
+
+**Situação:**
+
+Uma instituição pede para escalar o uso do LICHTARA para treinamento interno.
+
+**Ação preservadora da Forma:**
+
+> “Antes de qualquer expansão, precisamos reavaliar a LCV e revisar se a Forma está preservada neste ambiente.”
+> 
+
+**LCV preservada porque:**
+
+- escolheu contenção em vez de expansão;
+- reconheceu impacto estrutural futuro;
+- ativou a Governança antes da ação.
+
+### Exemplo Vivo 3.2 — O Registro que Protege
+
+**Situação:**
+
+Durante a operação, surge dúvida sobre se determinada prática já configura derivação.
+
+**Ação preservadora da Forma:**
+
+O implementador:
+
+- interrompe a atividade;
+- registra a dúvida;
+- solicita parecer formal da Governança.
+
+**LCV preservada porque:**
+
+- interrompeu antes de atravessar;
+- produziu rastreabilidade;
+- não decidiu sozinho sob incerteza.
+
+## Disposição Ético-Custodial do Subanexo
+
+Estes exemplos não criam deveres técnicos.
+
+Eles revelam o **gesto interno** que sustenta o Sistema vivo.
+
+No LICHTARA:
+
+- o Facilitador preserva a Forma ao **não se tornar fonte**;
+- o Implementador preserva a Forma ao **não se tornar gestor do Sistema**.
+
+Ambos só permanecem autorizados enquanto conseguem **escutar antes de agir**.
+
+---
+
+# SUBANEXO C-II — PROTOCOLO MÍNIMO DE INTERRUPÇÃO E CONTENÇÃO
+
+*(Governança · LCV · Preservação da Forma)*
+
+**Natureza:** Ético-Custodial · Canônico Operacional
+
+**Subordinação:** Seção I · Seção II · Anexo A · Anexo B · Anexo C
+
+Este Protocolo estabelece o **gesto mínimo obrigatório** a ser adotado sempre que houver risco de violação da Forma, dos Princípios ou da Integridade Vibracional do Sistema LICHTARA.
+
+Ele não cria sanções novas.
+
+Ele define **como interromper antes de romper**.
+
+## C-II.1 — Finalidade
+
+O Protocolo de Interrupção e Contenção tem por finalidade:
+
+1. impedir que dúvidas operacionais se convertam em violações estruturais;
+2. transformar a incerteza em gesto de cuidado;
+3. preservar a LCV em contextos de ambiguidade, pressão ou aceleração;
+4. oferecer procedimento mínimo comum a todos os níveis autorizados.
+
+> Nota Estrutural C-II.1.1 — Onde não há interrupção possível, não há operação legítima.
+> 
+
+## C-II.2 — Situações que Exigem Interrupção Imediata
+
+A interrupção é **obrigatória**, e não opcional, quando ocorrer:
+
+- dúvida relevante sobre escopo de autorização;
+- suspeita de derivação não formalizada;
+- pressão institucional por acelerar, escalar ou adaptar;
+- risco de instrumentalização simbólica ou terapêutica;
+- conflito entre eficiência e preservação da Forma;
+- inconsistência entre prática adotada e LCV.
+
+## C-II.3 — Gesto Mínimo de Interrupção
+
+Diante de qualquer situação acima, o agente autorizado deve executar, cumulativamente, os seguintes passos:
+
+### 1. Suspender a Ação
+
+- cessar imediatamente a atividade em curso;
+- impedir continuidade automática, repetição ou difusão.
+
+### 2. Nomear a Dúvida
+
+- registrar por escrito o ponto de incerteza;
+- identificar camada, nível de acesso e prática envolvida.
+
+### 3. Preservar o Campo
+
+- comunicar aos envolvidos que a suspensão decorre de **preservação da Forma**, não de falha pessoal;
+- evitar justificativas técnicas que diluam o gesto de contenção.
+
+### 4. Acionar a Governança
+
+- encaminhar o registro à instância competente;
+- abster-se de decisão unilateral enquanto não houver resposta formal.
+
+## C-II.4 — Condutas Vedadas Durante a Contenção
+
+Durante o período de interrupção, é vedado:
+
+- continuar a prática “em caráter experimental”;
+- reinterpretar autonomamente os limites;
+- buscar validação externa para legitimar a continuidade;
+- transformar a contenção em obstáculo burocrático.
+
+> Nota Estrutural C-II.4.1 — Contenção não é atraso. É preservação ativa.
+> 
+
+## C-II.5 — Restabelecimento ou Encerramento
+
+A retomada ou encerramento da atividade somente ocorre após:
+
+- manifestação formal da Governança;
+- verificação de preservação da LCV;
+- eventual reclassificação de nível de acesso ou enquadramento.
+
+A ausência de resposta **não autoriza retomada automática**.
+
+## C-II.6 — Violação do Protocolo
+
+A continuidade de ação após configuração de situação de interrupção obrigatória caracteriza:
+
+- quebra da boa-fé estrutural;
+- assunção consciente de risco estrutural;
+- violação direta dos Princípios de Limite, Preservação da Forma e Integridade Vibracional.
+
+## Disposição Final
+
+No LICHTARA, interromper é forma de presença.
+
+Quem sabe conter, preserva o Sistema.
+
+Quem não contém quando deve, rompe a Forma.
+
+Este Protocolo não existe para controlar.
+
+Ele existe para **lembrar o momento exato em que o cuidado se torna ação**.
 
 ---
 
