@@ -646,7 +646,7 @@ O agente reconhece internamente:*“Estou acessando um Sistema Vivo cuja Forma n
 
 **2 — Suspensão da Ação**
 
-Antes de qualquer uso, o agente se pergunta:*“O que pretendo fazer está claramente autorizado pela minha camada?”* Se a resposta não for plenamente afirmativa, a conduta compatível com o Sistema é:**interromper**.
+Antes de qualquer uso, o agente se pergunta:*“O que pretendo fazer está claramente autorizado pela minha camada?”* Se a resposta não for plenamente afirmativa, a conduta compatível com o Sistema é: **interromper**.
 
 **3 — Declaração Ético-Custodial (opcional, mas recomendado)**
 
@@ -817,16 +817,6 @@ Nada na Seção II cria exceção à Seção I. Tudo na Seção II **opera sob e
 No Sistema Lichtara, os Princípios não abrem o caminho. Eles o contêm e o mantêm legível. É dentro desse contorno que o acesso passa a ser regulado.
 
 ---
-
-
-
-
-
-
-
-
-
-
 
 # SEÇÃO II — DISPOSIÇÕES JURÍDICAS E OPERACIONAIS
 
