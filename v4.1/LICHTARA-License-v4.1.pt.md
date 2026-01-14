@@ -341,9 +341,9 @@ A boa-fé estrutural **não se satisfaz** com:
 
 A conduta que:
 
-– testa limites de modo estratégico;
-– explora deliberadamente zonas cinzentas;
-– atua antes e justifica depois;
+- testa limites de modo estratégico;
+- explora deliberadamente zonas cinzentas;
+- atua antes e justifica depois;
 
 **não configura boa-fé**, ainda que acompanhada de discurso colaborativo ou histórico prévio de relação.
 
