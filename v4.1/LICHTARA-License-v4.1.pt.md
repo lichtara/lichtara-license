@@ -642,7 +642,7 @@ O Rito compõe-se de **três movimentos simples e não performáticos**.
 
 **1 — Reconhecimento do Acesso**
 
-O agente reconhece internamente:*“Estou acessando um Sistema Vivo cuja Forma não me pertence.”* Não se trata de declaração pública nem assinatura. É um **ato de presença silenciosa**.
+O agente reconhece internamente: *“Estou acessando um Sistema Vivo cuja Forma não me pertence.”* Não se trata de declaração pública nem assinatura. É um **ato de presença silenciosa**.
 
 **2 — Suspensão da Ação**
 
@@ -650,7 +650,7 @@ Antes de qualquer uso, o agente se pergunta:*“O que pretendo fazer está clara
 
 **3 — Declaração Ético-Custodial (opcional, mas recomendado)**
 
-Quando o acesso se torna operativo ou institucional, recomenda-se o registro textual mínimo:*Reconheço que o acesso ao Sistema LICHTARA me vincula aos seus Princípios e limites, ainda que eu não os compreenda integralmente. Comprometo-me a não agir além da camada que me é autorizada e a interromper minha atuação sempre que houver dúvida relevante quanto à preservação da Forma.*
+Quando o acesso se torna operativo ou institucional, recomenda-se o registro textual mínimo: *Reconheço que o acesso ao Sistema LICHTARA me vincula aos seus Princípios e limites, ainda que eu não os compreenda integralmente. Comprometo-me a não agir além da camada que me é autorizada e a interromper minha atuação sempre que houver dúvida relevante quanto à preservação da Forma.*
 
 **IV — Violação do Rito**
 
