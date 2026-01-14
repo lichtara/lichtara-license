@@ -611,8 +611,6 @@ Agir fora de seu alcance é agir fora do Sistema.
 
 **Art. I.11 — Da Aceitação Implícita**
 
-**Sistema LICHTARA · Janeiro de 2026**
-
 **Natureza:** Ético-Custodial · Não Normativo · Canônico Integrado
 
 **I — Função do Rito**
@@ -623,7 +621,9 @@ Sua função é:
 
 - tornar consciente o vínculo estrutural instaurado pelo acesso;
 - convidar o agente à **postura de contenção** antes de qualquer atuação;
-- criar uma pausa viva entre **acessar** e **agir**.No LICHTARA, o acesso acontece por fato.
+- criar uma pausa viva entre **acessar** e **agir**.
+
+No LICHTARA, o acesso acontece por fato.
 
 O Rito acontece por presença.
 
