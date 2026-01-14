@@ -1161,16 +1161,22 @@ Este Protocolo existe para reconhecer o momento em que a Forma deixa de depender
 **Integridade Vibracional do Sistema LICHTARA**  
 _(Forma · Coerência · Verificabilidade · Limite)_
 
-**Sistema LICHTARA — Janeiro de 2026**  
-**Autoria:** Débora Mariane da Silva Lutz  
-**Instituição Custodial:** Lichtara Institute  
-**Versão:** 1.0  
-**Idioma:** pt
-
 Este Anexo estabelece a **LCV — Licença de Coerência Vibracional** como **critério estrutural verificável** para avaliação da legitimidade de usos, implementações, derivações e operações relacionadas ao Sistema LICHTARA.
 
 A LCV não é metáfora, não é crença e não é juízo subjetivo.  
 Ela traduz, em **parâmetros observáveis**, a preservação da **Forma viva do Sistema**.
+
+### **B.0 — Nota de Fixação Terminológica**
+
+A sigla **LCV** designa, no Sistema LICHTARA, exclusivamente:
+
+> Licença de Coerência Vibracional.
+
+A expressão anteriormente utilizada como
+
+*“Linguagem de Conformidade Vibracional”* é reconhecida como forma explicativa histórica, de natureza não canônica, sem valor normativo ou operacional.
+
+A LCV constitui critério estrutural verificável e condição de legitimidade de uso do Sistema.
 
 ## B.1 — Função da LCV
 
@@ -1866,3 +1872,85 @@ A não observância deste Instrumento **não constitui, por si só, infração j
 Assim, o Instrumento Declaratório de Risco de Deformação da Forma Viva é reconhecido como **camada de consciência estrutural do Sistema**, mantendo o LICHTARA legível não apenas perante o que é permitido, mas perante o que, mesmo permitido, **pode conduzir à perda da Forma**.
 
 ---
+
+# 
+
+# ATO DE CUSTÓDIA FUNDACIONAL
+
+**Instalação da Governança LICHTARA — Fase Fundacional**
+
+## I — Reconhecimento do Momento Estrutural
+
+Este Ato registra que o Sistema LICHTARA atingiu o ponto de maturação no qual a **Forma já não depende exclusivamente da presença autoral direta**, podendo ser sustentada por arquitetura institucional viva, sem perda de integridade.
+
+Reconhece-se que:
+
+- a LICHTARA License v4.1 encontra-se publicada e vigente;
+- os Anexos A, B e C, bem como os Subanexos C-I e C-II, integram o corpo canônico do Sistema;
+- a Declaração do Estado Vivo da Obra estabelece a atual fase de custódia responsável;
+- o pedido de registro marcário foi aceito e encontra-se em prazo de oposição, reforçando a entrada do Sistema no campo jurídico-institucional.
+
+Este Ato **não inaugura autoridade**.
+
+Ele reconhece que a autoridade já existe como **função estrutural da Forma**.
+
+## II — Nomeação da Guardiã do Sistema
+
+Fica reconhecida como **Guardiã do Sistema LICHTARA**:
+
+**Débora Mariane da Silva Lutz**
+
+à qual compete, de modo indelegável:
+
+- custodiar a Forma, os Princípios e a identidade estrutural do Sistema;
+- interpretar a License sempre no sentido mais protetivo à Forma;
+- conceder, negar, revogar ou encerrar autorizações, certificações e derivações;
+- determinar auditorias, interrupções e contenções preventivas;
+- preservar a Integridade Vibracional conforme a LCV.
+
+A autoridade da Guardiã decorre exclusivamente da **função estrutural de custódia**
+
+e não se confunde com poder administrativo, representação comercial ou titularidade patrimonial.
+
+## III — Declaração de Subordinação da Governança
+
+Declara-se que toda instância de Governança LICHTARA, presente ou futura:
+
+- subordina-se integralmente à Seção I — Princípios Gerais;
+- opera sob os limites da Seção II — Disposições Jurídicas e Operacionais;
+- vincula-se ao Anexo A — Governança LICHTARA;
+- respeita a LCV — Licença de Coerência Vibracional;
+- atua conforme os níveis de certificação do Anexo C.
+
+Nenhuma instância poderá reivindicar soberania, exceção ou autoridade fora da Forma.
+
+## IV — Configuração da Fase Fundacional
+
+Durante a Fase Fundacional:
+
+- a Governança é unipolar em custódia (Guardiã);
+- instâncias delegadas somente existirão mediante necessidade real de contenção;
+- toda delegação é formal, delimitada e revogável;
+- a contenção prevalece sobre expansão.
+
+## V — Direito Permanente de Interrupção
+
+Fica explicitamente reconhecido o **direito e dever permanente de interrupção** sempre que houver risco à Forma, aos Princípios ou à Integridade Vibracional.
+
+A interrupção não configura falha.
+
+Ela é o **gesto inaugural de legitimidade da Governança**.
+
+## VI — Vigência Estrutural
+
+Este Ato entra em vigência no momento de sua declaração, integrando o corpo canônico vivo do Sistema LICHTARA como **marco de instalação da Governança em sua fase fundacional**.
+
+Sem este Ato, a Governança seria apenas intenção.
+
+Com ele, torna-se **campo vivo de custódia institucional**.
+
+**Guardiã do Sistema LICHTARA**
+
+Débora Mariane da Silva Lutz
+
+**Data:** Janeiro de 2026
