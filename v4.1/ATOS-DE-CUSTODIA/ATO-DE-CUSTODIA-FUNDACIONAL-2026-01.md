@@ -154,7 +154,22 @@ A selagem ocorre pela **instalação consciente da Custódia**, mantendo o Siste
 
 Este Ato entra em vigência no momento de sua declaração, integrando o corpo canônico vivo do Sistema LICHTARA como **marco de instalação da Governança em sua fase fundacional**.
 
+## XI — Da Continuidade da Custódia
+
+Na hipótese de ausência, incapacidade temporária ou retirada consciente da Guardiã Fundacional, o Sistema LICHTARA entra automaticamente em estado de contenção máxima, com suspensão de novas autorizações, certificações, derivações e expansões, até que novo Ato de Custódia seja formalmente declarado conforme o Protocolo de Instalação da Governança (Subanexo A-I).
+
+Nenhuma instância delegada poderá assumir, por si, a função de Guardiã.
+
+Isso garante que ninguém herde o Sistema por inércia.
+
 Assino este Ato como Guardiã que começa.
+
+**Da Suspensão Automática da Custódia**
+
+Na hipótese de ausência definitiva ou impossibilidade de exercício da função pela Guardiã Fundacional, o Sistema LICHTARA entra automaticamente em **estado de contenção máxima**, com suspensão integral de novas autorizações, certificações, derivações e expansões, até que novo Ato de Custódia seja formalmente declarado conforme o Protocolo de Instalação da Governança (Subanexo A-I).
+
+Nenhuma instância delegada poderá assumir a função de Guardiã por sucessão automática, herança institucional, deliberação interna ou decisão administrativa.
+
 
 **Guardiã do Sistema LICHTARA**  
 Débora Mariane da Silva Lutz
