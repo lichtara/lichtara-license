@@ -607,7 +607,7 @@ No Sistema Lichtara, os Princípios não são diretrizes abstratas. São **condi
 
 Agir fora de seu alcance é agir fora do Sistema.
 
-**RITO DE ENTRADA**
+## RITO DE ENTRADA
 
 **Art. I.11 — Da Aceitação Implícita**
 
