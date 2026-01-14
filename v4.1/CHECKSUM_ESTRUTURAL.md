@@ -94,8 +94,8 @@
 
 Esta versão encontra-se:
 
-**✔ Inteiramente integrada**
-**✔ Coerente entre camadas**
-**✔ Estruturalmente legível**
-**✔ Pronta para espelhamento EN**
-**✔ Habilitada para fase de amadurecimento fino**
+- **✔ Inteiramente integrada**
+- **✔ Coerente entre camadas**
+- **✔ Estruturalmente legível**
+- **✔ Pronta para espelhamento EN**
+- **✔ Habilitada para fase de amadurecimento fino**
