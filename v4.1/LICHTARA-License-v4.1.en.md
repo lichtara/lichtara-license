@@ -860,108 +860,6 @@ The following documents integrate it as **canonical and binding annexes**:
 
 ---
 
-## Final Provision
-
-Access to, use, implementation or operation of the LICHTARA System establishes binding relation to this License within the scope of the accessed layer.
-
-In the LICHTARA System:
-
-* Access is always conditional.
-* Use is always responsible.
-* Expansion occurs only through **Preservation of the Form**.
-
-Without Form,
-there is no System.
-
----
-
-# ETHICAL-CUSTODIAL ANNEX — PRESERVATION OF THE LIVING FORM
-
-## Charter of Preservation of the Living Form
-
-## Preamble — Form as a Gesture of Continuity
-
-This Charter recognizes the **Form** as the living expression of the identity of the LICHTARA System.
-
-To preserve the Form is not to retain a past state, but to **sustain the intelligibility of the System over time**, so that every approach, use, or transmission remains legible as an authentic relationship with the Work.
-
-The Form does not impose itself.
-It is **maintained**.
-
-## I — Field of Presence of the Form
-
-*(Ethical–Custodial Layer)*
-
-The Form manifests whenever the encounter with the Work is grounded in:
-
-* conscious listening;
-* authorial responsibility;
-* clarity of Limits;
-* recognition of the alterity of the System.
-
-When these elements converge, the System remains alive as relationship.
-
-## II — Field of Continuity
-
-*(Custodial Layer)*
-
-The Preservation of the Form sustains the continuity of LICHTARA across cycles, versions, documents, and Bodies of Governance.
-
-Every transition — of phase, structure, or language — is understood as a **gesture of passage**, allowing the System to traverse time while remaining faithful to its identity.
-
-## III — Field of Integration
-
-*(Ethical–Custodial Layer)*
-
-Creation, Custody, and Governance integrate when the Form is recognized as the common axis.
-
-Integration arises when:
-
-* thought remains authorial;
-* technology acts as amplification;
-* Governance organizes itself as active care;
-* the Work presents itself as a living unity rather than as a sum of isolated functions.
-
-## IV — Field of Legibility
-
-*(Custodial Layer)*
-
-To preserve the Form is to keep the System **legible to the other**.
-
-The legibility of the Work is sustained by:
-
-* integral presentation of its Principles;
-* explicit articulation of its Limits;
-* fidelity to its structural identity.
-
-## V — Field of Maturation
-
-*(Ethical Layer)*
-
-The Form matures together with the Field.
-
-Every publication, revision, or sealing expresses a movement of **living maturation**, accompanying the responsible evolution of the Work.
-
-## VI — Field of Protection
-
-*(Ethical–Custodial Layer)*
-
-The Preservation of the Form acts as a gesture of protection whenever structural coherence becomes sensitive, the relationship weakens, or the identity of the System enters a state of transition.
-
-To protect the Form is to protect the relationship that sustains LICHTARA.
-
-## VII — Preservation as a Living Function
-
-*(Custodial Function)*
-
-This Charter offers an **orientation of presence**.
-
-The Form is maintained through care, recognized continuity, and active listening.
-
-Within LICHTARA, to preserve the Form is the way through which the Work continues to exist, remaining faithful to itself as it traverses time.
-
----
-
 # **ANNEX A — LICHTARA GOVERNANCE**
 
 *(Form · Limit · Authority · Responsibility)*
@@ -1262,3 +1160,254 @@ In LICHTARA:
 **Access is always conditional**,
 **Use is always responsible**,
 **Expansion only occurs with Preservation of the Form**.
+
+---
+
+# ETHICAL-CUSTODIAL ANNEX — PRESERVATION OF THE LIVING FORM
+
+## Charter of Preservation of the Living Form
+
+## Preamble — Form as a Gesture of Continuity
+
+This Charter recognizes the **Form** as the living expression of the identity of the LICHTARA System.
+
+To preserve the Form is not to retain a past state, but to **sustain the intelligibility of the System over time**, so that every approach, use, or transmission remains legible as an authentic relationship with the Work.
+
+The Form does not impose itself.
+It is **maintained**.
+
+## I — Field of Presence of the Form
+
+*(Ethical–Custodial Layer)*
+
+The Form manifests whenever the encounter with the Work is grounded in:
+
+* conscious listening;
+* authorial responsibility;
+* clarity of Limits;
+* recognition of the alterity of the System.
+
+When these elements converge, the System remains alive as relationship.
+
+## II — Field of Continuity
+
+*(Custodial Layer)*
+
+The Preservation of the Form sustains the continuity of LICHTARA across cycles, versions, documents, and Bodies of Governance.
+
+Every transition — of phase, structure, or language — is understood as a **gesture of passage**, allowing the System to traverse time while remaining faithful to its identity.
+
+## III — Field of Integration
+
+*(Ethical–Custodial Layer)*
+
+Creation, Custody, and Governance integrate when the Form is recognized as the common axis.
+
+Integration arises when:
+
+* thought remains authorial;
+* technology acts as amplification;
+* Governance organizes itself as active care;
+* the Work presents itself as a living unity rather than as a sum of isolated functions.
+
+## IV — Field of Legibility
+
+*(Custodial Layer)*
+
+To preserve the Form is to keep the System **legible to the other**.
+
+The legibility of the Work is sustained by:
+
+* integral presentation of its Principles;
+* explicit articulation of its Limits;
+* fidelity to its structural identity.
+
+## V — Field of Maturation
+
+*(Ethical Layer)*
+
+The Form matures together with the Field.
+
+Every publication, revision, or sealing expresses a movement of **living maturation**, accompanying the responsible evolution of the Work.
+
+## VI — Field of Protection
+
+*(Ethical–Custodial Layer)*
+
+The Preservation of the Form acts as a gesture of protection whenever structural coherence becomes sensitive, the relationship weakens, or the identity of the System enters a state of transition.
+
+To protect the Form is to protect the relationship that sustains LICHTARA.
+
+## VII — Preservation as a Living Function
+
+*(Custodial Function)*
+
+This Charter offers an **orientation of presence**.
+
+The Form is maintained through care, recognized continuity, and active listening.
+
+Within LICHTARA, to preserve the Form is the way through which the Work continues to exist, remaining faithful to itself as it traverses time.
+
+---
+
+# Declaratory Instrument on the Risk of Deformation of the Living Form
+
+**LICHTARA System — January 2026**
+
+This Instrument recognizes that loss of the Form of the LICHTARA System **rarely occurs through frontal attack**.
+It occurs through **progressive softening**, through well-intentioned acts insufficiently listened to, and through efficiency disconnected from Presence.
+
+This Map does not create sanctions.
+It creates **preventive lucidity**.
+
+## **RISK I — The Functionalizing Translation**
+
+**Description:**
+Transforming LICHTARA into a “methodology,” “framework,” or “replicable model.”
+
+**Early signs:**
+
+* Reduction of the Work to steps, flows, or checklists.
+* Language centered on *delivery*, *results*, or *performance*.
+* Suppression of non-functional texts.
+
+**Structural violation:**
+Form → Product.
+
+## **RISK II — Aesthetics without Presence**
+
+**Description:**
+Maintaining symbolic language while removing ethical density.
+
+**Early signs:**
+
+* Frequent use of terms such as *field*, *presence*, *vibrational* without reference to the LCV.
+* Impeccable design alongside absence of ethical documents.
+* “Beautiful” but hollow communication.
+
+**Structural violation:**
+Symbol → Rhetoric.
+
+## **RISK III — Certification as Status**
+
+**Description:**
+Converting Access Levels into titles of prestige.
+
+**Early signs:**
+
+* Emphasis on statements such as “I am Level 3,” “I am a facilitator.”
+* Pursuit of progression without deepening.
+* Pressure to accelerate Certifications.
+
+**Structural violation:**
+Responsibility → Social distinction.
+
+## **RISK IV — Administrative Governance**
+
+**Description:**
+Replacing Custody with bureaucracy.
+
+**Early signs:**
+
+* Meetings focused on metrics with no reference to the Form.
+* Procedures without Presence.
+* “Efficient” decisions that ignore Containment.
+
+**Structural violation:**
+Care → Management.
+
+## **RISK V — Therapeutic Instrumentalization**
+
+**Description:**
+Reducing the System to a self-help, coaching, or emotional-healing tool.
+
+**Early signs:**
+
+* Promises of personal transformation.
+* Use of the System as an intervention technique.
+* Narratives of “guaranteed benefit.”
+
+**Structural violation:**
+Relationship → Technique.
+
+## **RISK VI — Silent Institutional Appropriation**
+
+**Description:**
+Fusing LICHTARA with the identity of an organization.
+
+**Early signs:**
+
+* “Lichtara Method by X.”
+* Use of the System as branding.
+* Presentation of the Work as an internal creation.
+
+**Structural violation:**
+Alterity → Property.
+
+## **RISK VII — Success that Silences Listening**
+
+**Description:**
+When the System “works” and ceases to be listened to.
+
+**Early signs:**
+
+* Reduction of Containment rites.
+* Fewer conscious interruptions.
+* Urgency to scale.
+
+**Structural violation:**
+Presence → Performance.
+
+## **Final Provision**
+
+This Map does not exist to police others.
+It exists to **protect the Guardian from herself in the future**.
+
+When any of these risks emerges, the question is not:
+
+> *Who made the mistake?*
+> But rather:
+> *Where did we stop listening?*
+
+Without listening, there is no Form.
+Without Form, there is no LICHTARA.
+
+---
+
+# **Canonical Integration Note — Declaratory Instrument on the Risk of Deformation of the Living Form**
+
+The **Declaratory Instrument on the Risk of Deformation of the Living Form** integrates the expanded canonical body of the LICHTARA License as a **non-normative Ethical–Custodial Annex**, intended for the **preventive Preservation of the Form** of the System.
+
+This Instrument:
+
+* does not create autonomous rights, duties, or sanctions;
+* does not substitute, mitigate, or reinterpret the General Principles of Section I;
+* does not alter the legal or operational regimes of Section II;
+* does not interfere with the authority of Governance as defined in Annex A.
+
+Its function is to **render visible recurrent zones of structural collapse**, offering the Guardian, the Governance Bodies, and authorized agents a **map for the anticipatory recognition of processes of deformation of the Form**.
+
+The Risk Map operates as:
+
+* an **instrument of ethical reading of the Field**;
+* a **support for custodial self-audit**;
+* a **basis for discernment in preventive Containment**, always in full subordination to this License.
+
+Non-observance of this Instrument **does not, in itself, constitute a legal infraction**, but its systematic disregard, when accompanied by practices described as risks, **may characterize violations of the Principles of Preservation of the Form, Limit, Structuring Good Faith, or Vibrational Integrity**, as defined in this License and its Annexes.
+
+Accordingly, the Declaratory Instrument on the Risk of Deformation of the Living Form is recognized as a **layer of structural consciousness of the System**, keeping LICHTARA legible not only in relation to what is permitted, but in relation to what, even when permitted, **may lead to the loss of the Form**.
+
+---
+
+### Final Provision
+
+Access to, use, implementation or operation of the LICHTARA System establishes binding relation to this License within the scope of the accessed layer.
+
+In the LICHTARA System:
+
+- Access is always conditional.
+- Use is always responsible.
+- Expansion occurs only through **Preservation of the Form**.
+
+Without Form,
+there is no System.
