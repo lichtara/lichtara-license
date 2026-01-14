@@ -2,6 +2,8 @@ Sistema LICHTARA
 
 LICHTARA License v4.1
 
+Edição Canônica de Custódia Viva
+
 Autoria: Débora Mariane da Silva Lutz
 
 Instituição Custodial: Lichtara Institute
@@ -13,6 +15,7 @@ Idioma: pt
 ---
 
 # LICHTARA License v4.1
+### Edição Canônica de Custódia Viva
 
 ## Índice Canônico do Sistema
 
