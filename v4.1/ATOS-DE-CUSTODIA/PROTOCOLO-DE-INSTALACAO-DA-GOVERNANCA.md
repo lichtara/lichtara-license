@@ -21,7 +21,8 @@ A Instalação da Governança tem por finalidade:
 3. impedir que a autoridade se instale antes da escuta.
 
 > Nota Estrutural A-I.1.1 — Governança que nasce de urgência nasce deformada.
-> 
+
+A Governança LICHTARA se define primariamente pelo que recusa instituir, e apenas secundariamente pelo que organiza.
 
 ## A-I.2 — Condições Prévias de Instalação
 
@@ -72,6 +73,8 @@ A Governança não nasce para servir à expansão.
 
 Ela nasce para **proteger o ponto exato onde a expansão deve parar**.
 
+É vedado utilizar métricas de desempenho, produtividade ou expansão como justificativa para antecipar a instalação da Governança.
+
 ## A-I.6 — Encerramento da Fase Fundacional
 
 A fase fundacional só é considerada encerrada quando:
@@ -81,6 +84,8 @@ A fase fundacional só é considerada encerrada quando:
 - houver registro de contenção efetiva em contexto institucional.
 
 Sem contenção vivida, não há Governança instalada — apenas encenação.
+
+A ausência de registro de interrupção invalida qualquer alegação de maturidade institucional.
 
 ## Disposição Final
 
