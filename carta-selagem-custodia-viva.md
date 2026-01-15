@@ -3,7 +3,9 @@
 *(Marco Ontológico da Transição da Autoria para a Custódia)*
 
 **Sistema LICHTARA — Janeiro de 2026**
+
 **Natureza:** Ético-Custodial · Canônico Fundacional · Irrevogável quanto à Forma
+
 **Subordinação:** Ato de Custódia Fundacional · Subanexo A-I · LICHTARA License v4.1 · LCV
 
 ---
@@ -85,8 +87,6 @@ Toda tentativa de fazê-lo constitui **negação da Forma** e, portanto, inexist
 
 Esta Carta entra em vigência no momento de sua declaração consciente,
 integrando o corpo canônico vivo do Sistema LICHTARA como **marco de transição ontológica da Autoria para a Custódia.**
-
----
 
 **Guardiã Fundacional do Sistema LICHTARA**
 Débora Mariane da Silva Lutz
