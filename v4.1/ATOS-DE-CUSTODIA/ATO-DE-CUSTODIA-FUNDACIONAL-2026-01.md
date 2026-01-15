@@ -54,6 +54,8 @@ Por este Ato, reconheço-me e fica reconhecida como:
 
 A autoridade da Guardiã decorre exclusivamente da **necessidade estrutural de preservação da Forma** e se distingue de poder administrativo, representação comercial ou titularidade patrimonial.
 
+A interrupção independe de ratificação por qualquer instância de governança ou órgão administrativo.
+
 ## III — Da Natureza da Custódia
 
 A Custódia:
@@ -163,6 +165,8 @@ Nenhuma instância delegada poderá assumir, por si, a função de Guardiã.
 Isso garante que ninguém herde o Sistema por inércia.
 
 Assino este Ato como Guardiã que começa.
+
+O estado de contenção máxima não constitui lacuna de governança, mas regime legítimo e desejável de preservação da Forma.
 
 **Da Suspensão Automática da Custódia**
 
